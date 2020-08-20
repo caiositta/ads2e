@@ -1,0 +1,2 @@
+O programa será feito em Java utilizando tecnologias atuais(node.js), proporcionando
+um app rapido e consistente.

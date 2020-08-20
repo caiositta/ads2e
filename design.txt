@@ -1,0 +1,7 @@
+Tela inicial:Tela onde o usuario vai iniciar o app
+Tela de cadastro: Tela onde o usuario vai se cadastrar
+Tela do usuario: Tela onde o usuario pode ver seu perfil e edita-lo
+Tela de agendamento para viagem: Tela onde se agenda a viagem com o carro voador
+Tela de pagamento: Tela onde o usuario escolhe o meio de pagamento e o efetua
+Tela de espera:Tela de espera do carro voador para começar a viagem
+Tela de conclusão de passeio: Tela onde o usuario podera avaliar a viagem

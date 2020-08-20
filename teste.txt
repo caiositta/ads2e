@@ -1,0 +1,2 @@
+Será realizado testes de logica e testes de software no hardware, tbm será efetuado 
+um beta para testes.
